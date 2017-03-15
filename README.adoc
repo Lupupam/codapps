@@ -1,0 +1,5 @@
+= Course material for codapps
+
+by Clément Levallois.
+
+Contact: levallois@em-lyon.com
